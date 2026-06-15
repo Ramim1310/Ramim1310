@@ -56,7 +56,6 @@ const ramim = {
 * Building full-stack web applications
 * Learning advanced backend and database concepts
 * Practicing problem solving on online judges
-* Exploring real-time communication using WebSockets
 * Improving project architecture and clean code practices
 * Working on practical projects like e-commerce, chatting apps, and management systems
 
@@ -66,6 +65,7 @@ const ramim = {
 
 In the upcoming months, I plan to learn and practice:
 
+* Learn TypeScript, NEXT JS, SQL
 * Deployment with platforms like Vercel, Render, Railway, and VPS
 * Docker and containerized application development
 * Redis caching for faster backend performance
@@ -166,13 +166,6 @@ Repository: [Project-Ecommerce](https://github.com/Ramim1310/Project-Ecommerce)
 
 ---
 
-### Student Management System
-
-A student management project focused on organizing student information and practicing CRUD-based application logic.
-
-Repository: [project-student-mannagement](https://github.com/Ramim1310/project-student-mannagement)
-
----
 
 ### Student Data Entry
 
@@ -182,21 +175,7 @@ Repository: [Student-Data-entry](https://github.com/Ramim1310/Student-Data-entry
 
 ---
 
-### LeetCode 75 Practice
 
-A problem-solving repository where I practice coding questions and improve algorithmic thinking using Python.
-
-Repository: [Leetcode75](https://github.com/Ramim1310/Leetcode75)
-
----
-
-### Restaurant Website
-
-A frontend project focused on restaurant website design and layout practice.
-
-Repository: [Restaurant](https://github.com/Ramim1310/Restaurant)
-
----
 
 ### Furniture Website
 
@@ -243,16 +222,6 @@ This experience helped me understand how users think, how to communicate clearly
 
 ---
 
-## Education
-
-### Hajee Mohammad Danesh Science & Technology University
-
-**Bachelor of Science in Computer Science & Engineering**
-
-**Session:** 2020 — 2026
-**Location:** Dinajpur, Bangladesh
-
----
 
 ## Certifications
 
@@ -278,7 +247,7 @@ Frontend: React, Tailwind CSS, responsive UI
 Backend: Node.js, Express.js, API design
 Database: PostgreSQL, MongoDB, Prisma, NeonDB
 Real-Time: WebSockets
-Future: Deployment, Docker, Redis, Scalability, System Design
+Future: NEXT js, TypeScript, Deployment, Docker, Redis, Scalability, System Design
 ```
 
 ---
