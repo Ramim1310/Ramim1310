@@ -66,7 +66,7 @@ const ramim = {
 In the upcoming months, I plan to learn and practice:
 
 * Learn TypeScript, NEXT JS, SQL
-* Deployment with platforms like Vercel, Render, Railway, and VPS
+* Deployment with platforms like  AWS, Azure,Railway, and VPS
 * Docker and containerized application development
 * Redis caching for faster backend performance
 * Backend scalability and performance optimization
@@ -115,6 +115,8 @@ My goal is not only to learn tools, but to understand how real-world software wo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
 ![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge\&logo=microsoftoffice\&logoColor=white)
 
 ---
